@@ -26,7 +26,7 @@ Now edit the README.md file. When you have finished editing, commit your changes
 
 The final state of the file should be as follows (replacing the "Created by" information with your name):
 ```
-# Exercise-05c-Blender
+# Exercise-05c-Create-a-Model
 Exercise for MSCH-C220, 27 October 2020
 
 The result of following the classic donut Blender tutorial by Blender Guru.
