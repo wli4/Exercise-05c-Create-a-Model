@@ -1,4 +1,4 @@
-# Exercise-05c-Blender
+# Exercise-05c-Create-a-Model
 Exercise for MSCH-C220, 27 October 2020
 
 This exercise is intended to provide a well-trod introduction to Blender 2.8, by introducing you to the first level of the classic donut tutorial by Blender Guru. You will need to set aside some time for this exercise, but you should emerge with a much better understanding of how Blender works and how to use it to create models.
